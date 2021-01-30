@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0TyqnxZGq0zUCHfJTvzX1BtSTrqGwcQn0f+TBDr9duID1lO5MmYjQNzX80PZGGnydAMT4H+lZ0c0gSDenzAbrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\C#\\Programacion 2\\CalculatorMJR\\CalculatorMJR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\materialdesigncolors\\2.0.0-ci2387\\materialdesigncolors.2.0.0-ci2387.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\materialdesignthemes\\4.0.0-ci2387\\materialdesignthemes.4.0.0-ci2387.nupkg.sha512"
+  ],
+  "logs": []
+}
