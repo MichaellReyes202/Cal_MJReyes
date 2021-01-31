@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace CalculatorMJR.Controller
+namespace CalculatorMJR.Models
 {
     class Math
     {
@@ -104,19 +104,6 @@ namespace CalculatorMJR.Controller
 
             return Convert.ToString(number);
             
-            /*            
-            BigDecimal d = new BigDecimal(number);
-            long a = d.longValue();
-            BigDecimal b = d.remainder(BigDecimal.ONE);
-            if (b == BigDecimal.ZERO)
-            {
-                return String.valueOf(a);
-            }
-            else
-            {
-                return String.valueOf(number);
-            }
-            */
         }
     }
 }
